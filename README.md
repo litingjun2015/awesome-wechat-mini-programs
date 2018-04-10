@@ -75,6 +75,134 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 ----
 
 
+# 微信小程序资源大全
+
+
+
+* * *
+
+### 我们要做什么？
+
+- 基于 awesome-javascript 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。
+- 整理后的内容，将收录在[xxx](http://hao.jobbole.com/)。可参考已整理的内容：
+  - 《[xxx](http://hao.jobbole.com/bootstrap/)》
+
+* * *
+
+### 如何参与本项目？
+
+<!-- 从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
+
+不过加入前，有几个小要求：
+
+* 英文还不错，能读懂英文并用自己的话复述；
+* 在用 JavaScript；
+
+如有兴趣，请加 QQ：50872495。加 Q 时请注明「JS大全」 -->
+
+* * *
+
+### 如何为列表贡献新资源？
+
+欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：
+
+* 请确保推荐的资源自己使用过
+* 提交PR时请注明推荐理由
+
+资源列表管理收到PR请求后，会定期（每周）在微博转发本周提交的PR列表，并在微博上面听取使用过这些资源的意见。确认通过后，会加入资源大全。
+
+感谢您的贡献！
+
+* * *
+
+### 本项目的参与者
+
+- 维护者：
+- 贡献者：[zhaotoday](https://github.com/zhaotoday/mini-program), [jobbole](https://github.com/jobbole/awesome-javascript-cn)
+注：名单不分排名，不定期补充更新
+
+* * *
+
+<!-- ### 奖励计划
+
+虽然奖励可能并不是你加入的主要原因，但还是有必要提一下：
+
+* 整理超过 20 个资源后，可 xxx；
+* 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
+* 待定
+
+* * * -->
+### 目录
+
+* [微信小程序资源大全](#awesome-wechat-mini-programs)
+  * [官网](#官网)
+  * [推荐网站](#loaders)
+  * [打包工具](#bundlers)
+  * [测试框架](#testing-frameworks)
+  * [QA 工具](#qa-tools)
+  * [MVC 框架和库](#mvc-frameworks-and-libraries)
+  * [基于 Node 的 CMS 框架](#node-powered-cms-frameworks)
+  * [模板引擎](#templating-engines)
+  * [Flux](#data-flow)
+  * [数据可视化](#data-visualization)
+    * [时间轴](#timeline)
+  * [编辑器](#editors)
+  * 工具
+
+
+## 官网
+
+- [微信公众平台](https://mp.weixin.qq.com/)  
+- [微信小程序简易教程](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)  
+- [微信小程序开发者社区](https://developers.weixin.qq.com/)
+- [微信小程序开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/devtools.html?t=20161122)   
+- [微信小程序常见 Q&A 官方](https://developers.weixin.qq.com/blogdetail?action=get_post_info&lang=zh_CN&token=&docid=0008ec49d849681c05866d9a957008)
+
+### 2.2. 推荐网站
+
+- [第九程序](http://9.cn)
+- [微信小程序联盟](http://www.wxapp-union.com/)
+- [微信小程序开发资源精选网址导航](http://www.yimijili.com/xcxwzdh.html)
+
+### 2.3. 小程序导航
+
+- [小程序商店](http://xcx.9.cn)
+- [小程序商店](http://www.91ud.com/)
+- [小程序窝](http://www.xcxwo.com/)
+- [微信小程序导航](http://www.w3cschool.cn/miniapp)
+- [小程序应用商店](http://www.51westore.com/)
+- [知晓程序](https://minapp.com/miniapp/)
+- [微信小程序大全](http://www.duba.com/wxapp/)
+- [小程序商店](http://www.xcx.la/)
+- [小程序商店](http://www.xcxsdw.com/)
+
+## 3. 开发资源
+
+### 3.1. 框架
+
+- [WePY](https://github.com/Tencent/wepy)
+- [mpvue](https://github.com/Meituan-Dianping/mpvue)
+- [weui-wxss - WeUI for 小程序](https://github.com/weui/weui-wxss)
+- [Wafer - 企业级微信小程序全栈方案](https://github.com/tencentyun/wafer)  
+
+### 3.2. 工具
+
+- [wept - 微信小程序 web 端实时运行工具](https://github.com/chemzqm/wept)  
+- [微信小程序可视化设计工具](http://www.coolsite360.com/wxapp/)  
+- [腾讯云 - 微信小程序解决方案](https://www.qcloud.com/solution/la.html)  
+- [腾讯云 - 小程序配置指引、升级方案](https://github.com/tencentyun/weapp-doc)  
+
+### 3.3. GitHub
+- [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
+- [微信小程序开源项目库汇总](https://github.com/opendigg/awesome-github-wechat-weapp)
+
+### 3.4. 视频教程
+
+...
+
+
+
+
 ## Package Managers
 *Host the javascript libraries and provide tools for fetching and packaging them.*
 
